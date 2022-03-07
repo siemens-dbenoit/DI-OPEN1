@@ -1,0 +1,14 @@
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\bin\Debug\ConsoleApplication.exe.config
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\bin\Debug\ConsoleApplication.exe
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\bin\Debug\ConsoleApplication.pdb
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\obj\x86\Debug\InterestPower.csprojAssemblyReference.cache
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\obj\x86\Debug\InterestPower.csproj.CoreCompileInputs.cache
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150101_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\bin\Debug\ConsoleApplication.exe.config
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150101_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\bin\Debug\ConsoleApplication.exe
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150101_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\bin\Debug\ConsoleApplication.pdb
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150101_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\obj\x86\Debug\InterestPower.csprojAssemblyReference.cache
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150101_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\obj\x86\Debug\InterestPower.csproj.CoreCompileInputs.cache
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150101_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150101_DE_Entwicklungsstand\02_Exercise\Chapter4\InterestPower\obj\x86\Debug\ConsoleApplication.pdb

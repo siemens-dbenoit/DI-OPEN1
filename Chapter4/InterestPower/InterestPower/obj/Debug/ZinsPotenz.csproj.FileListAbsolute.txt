@@ -1,0 +1,7 @@
+D:\Kurse\DI-OPEN1\ZinsPotenz\ZinsPotenz\bin\Debug\ZinsPotenz.exe.config
+D:\Kurse\DI-OPEN1\ZinsPotenz\ZinsPotenz\bin\Debug\ZinsPotenz.exe
+D:\Kurse\DI-OPEN1\ZinsPotenz\ZinsPotenz\bin\Debug\ZinsPotenz.pdb
+D:\Kurse\DI-OPEN1\ZinsPotenz\ZinsPotenz\obj\Debug\ZinsPotenz.csprojAssemblyReference.cache
+D:\Kurse\DI-OPEN1\ZinsPotenz\ZinsPotenz\obj\Debug\ZinsPotenz.csproj.CoreCompileInputs.cache
+D:\Kurse\DI-OPEN1\ZinsPotenz\ZinsPotenz\obj\Debug\ZinsPotenz.exe
+D:\Kurse\DI-OPEN1\ZinsPotenz\ZinsPotenz\obj\Debug\ZinsPotenz.pdb
