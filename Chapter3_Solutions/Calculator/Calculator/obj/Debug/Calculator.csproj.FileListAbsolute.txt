@@ -1,0 +1,7 @@
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\04_Trainer\01_ExerciseSolution\Chapter3\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\04_Trainer\01_ExerciseSolution\Chapter3\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\04_Trainer\01_ExerciseSolution\Chapter3\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\04_Trainer\01_ExerciseSolution\Chapter3\Taschenrechner\Taschenrechner\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\04_Trainer\01_ExerciseSolution\Chapter3\Taschenrechner\Taschenrechner\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\04_Trainer\01_ExerciseSolution\Chapter3\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\SITRAIN\Desktop\DI-OPEN1_V150100_DE_Entwicklungsstand\04_Trainer\01_ExerciseSolution\Chapter3\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb

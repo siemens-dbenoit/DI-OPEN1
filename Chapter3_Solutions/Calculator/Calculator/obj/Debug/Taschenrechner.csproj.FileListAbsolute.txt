@@ -1,0 +1,7 @@
+D:\Kurse\DI-OPEN1\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+D:\Kurse\DI-OPEN1\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.exe
+D:\Kurse\DI-OPEN1\Taschenrechner\Taschenrechner\bin\Debug\Taschenrechner.pdb
+D:\Kurse\DI-OPEN1\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojAssemblyReference.cache
+D:\Kurse\DI-OPEN1\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+D:\Kurse\DI-OPEN1\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
+D:\Kurse\DI-OPEN1\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
