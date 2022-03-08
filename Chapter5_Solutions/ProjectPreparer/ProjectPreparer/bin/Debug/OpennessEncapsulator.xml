@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OpennessEncapsulator</name>
+    </assembly>
+    <members>
+        <member name="M:OpennessEncapsulator.OpennessFunctions.#ctor">
+            <summary>
+            constructor (empty)
+            </summary>
+        </member>
+        <member name="M:OpennessEncapsulator.OpennessFunctions.InitConfig(System.String,System.String,System.String)">
+            <summary>
+            initializes the basic configuration of the class
+            </summary>
+            <param name="projectFolder"></param>
+            <param name="projectName"></param>
+            <param name="libraryPath"></param>
+        </member>
+        <member name="M:OpennessEncapsulator.OpennessFunctions.CreateProject(OpennessEncapsulator.OpennessFunctions.CPUSelection)">
+            <summary>
+            Creates one of the configurations that are allowed as Parameters
+            </summary>
+            <param name="ConfigurationToCreate">Member of Enum CPUSelection that defines which configuration is created</param>
+            <returns>bool - This bool indicates whether a internal fault has happened or not (true = no internal error)</returns>
+        </member>
+        <member name="M:OpennessEncapsulator.OpennessFunctions.SetWhitelist(System.String,System.String)">
+            <summary>
+            Creates a Registry Key that allows the Application to be run without the Openness Security Dialog.
+            !!!
+            Must be started with Administrator rights!
+            !!!
+            </summary>
+            <param name="ApplicationName">The name of your application (without ".exe")</param>
+            <param name="ApplicationStartupPath">The path where your application is located</param>
+        </member>
+        <member name="T:OpennessEncapsulator.OpennessFunctions.CPUSelection">
+            <summary>
+            Enumeration that is used for specifying the configuration to be created
+            </summary>
+        </member>
+    </members>
+</doc>
