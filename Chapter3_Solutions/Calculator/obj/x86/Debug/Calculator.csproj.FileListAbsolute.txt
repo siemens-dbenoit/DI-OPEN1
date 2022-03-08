@@ -26,10 +26,3 @@ D:\Open1\04_Trainer\01_Solution\Chapter3\Calculator\obj\x86\Debug\Calculator.csp
 D:\Open1\04_Trainer\01_Solution\Chapter3\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
 D:\Open1\04_Trainer\01_Solution\Chapter3\Calculator\obj\x86\Debug\ConsoleApplication.exe
 D:\Open1\04_Trainer\01_Solution\Chapter3\Calculator\obj\x86\Debug\ConsoleApplication.pdb
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter3\Calculator\bin\Debug\ConsoleApplication.exe.config
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter3\Calculator\bin\Debug\ConsoleApplication.exe
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter3\Calculator\bin\Debug\ConsoleApplication.pdb
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter3\Calculator\obj\x86\Debug\Calculator.csprojAssemblyReference.cache
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter3\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter3\Calculator\obj\x86\Debug\ConsoleApplication.exe
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter3\Calculator\obj\x86\Debug\ConsoleApplication.pdb

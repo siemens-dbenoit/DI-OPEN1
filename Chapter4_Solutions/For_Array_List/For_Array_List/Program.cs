@@ -36,8 +36,6 @@ namespace For_Array_List
                 //---------------------------------------
                 int[] arrayOfIntegers = new int[100];
                 List<int> listOfIntegers = new List<int>();
-
-                Dictionary<int, int> listOfIntegers_dict = new Dictionary<int, int>();
                 #endregion
 
                 #region Start entry
@@ -121,7 +119,7 @@ namespace For_Array_List
                     // Fill ArrayOfIntegers with values
                     // Select function according to FunctionAnswerString
                     //---------------------------------------
-                    for (int arrayIndex = 0; arrayIndex <= arrayOfIntegers.Length-1; arrayIndex++)
+                    for (int arrayIndex = 0; arrayIndex <= 99; arrayIndex++)
                     {
 
                         if (functionAnswerString.Equals("1"))
@@ -161,26 +159,17 @@ namespace For_Array_List
                         if (functionAnswerString.Equals("1"))
                         {
                             listOfIntegers.Add(listIndex);
-
-                            listOfIntegers_dict.Add(listIndex, listIndex);
                         }
                         else if (functionAnswerString.Equals("2"))
                         {
                             listOfIntegers.Add(listIndex * listIndex);
-
-                            listOfIntegers_dict.Add(listIndex, listIndex * listIndex);
                         }
                         else
                         {
                             listOfIntegers.Add(listIndex * listIndex * listIndex);
-
-                            listOfIntegers_dict.Add(listIndex, listIndex * listIndex * listIndex);
                         }
 
                     }
-
-                    listOfIntegers.RemoveAt(22);
-
                     // Die ersten 100 (0<=x<=99 e N) Ergebnisse sollen in das entsprechende Element geschrieben werden
                 }
                 Console.WriteLine("fertig.");
@@ -194,7 +183,7 @@ namespace For_Array_List
                 // No need for additional checks
                 Console.WriteLine("Für welches ganzzahlige x möchten Sie den Wert ausgegeben bekommen?");
                 Console.WriteLine("Which even number x should be used to print result");
-                int valueToFind = int.Parse(Console.ReadLine());
+                int indexOfValueToFind = int.Parse(Console.ReadLine());
                 Console.WriteLine("Das Ergebnis lautet ");
                 Console.WriteLine("Result equals ");
                 // Hatte der Benutzer Arrays gewählt, so muss hier der Wert aus dem Array gelesen werden
@@ -218,7 +207,7 @@ namespace For_Array_List
                     // use access of array here
                     // String structure is: "<result>."
                     //---------------------------------------
-                    Console.WriteLine(arrayOfIntegers[valueToFind].ToString() + ".");
+                    Console.WriteLine(arrayOfIntegers[indexOfValueToFind].ToString() + ".");
                 }
                 else
                 {
@@ -237,13 +226,7 @@ namespace For_Array_List
                     // use access of list here
                     // String structure is: "<result>."
                     //---------------------------------------
-                    Console.WriteLine(listOfIntegers[valueToFind].ToString() + ".");
-
-                    int result;
-                    var res = listOfIntegers_dict.TryGetValue(valueToFind, out result);
-
-                    Console.WriteLine(res.ToString() + ".");
-
+                    Console.WriteLine(listOfIntegers[indexOfValueToFind].ToString() + ".");
                 }
                 #endregion
 

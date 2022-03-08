@@ -10,13 +10,12 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            int number1, number2;
-
+            int number1 = 1;
+            int number2 = 2;
             Console.Title = "Taschenrechner // Calculator";
             Console.WriteLine("Bitte geben Sie Zahl 1 ein:");
             Console.WriteLine("Please enter number 1:");
-            //number1 = Int32.Parse(Console.ReadLine());
-            var result = Int32.TryParse(Console.ReadLine(), out number1);
+            number1 = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Bitte geben Sie Zahl 2 ein:");
             Console.WriteLine("Please enter number 2:");
             number2 = Int32.Parse(Console.ReadLine());

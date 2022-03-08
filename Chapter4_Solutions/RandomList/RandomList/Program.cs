@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace RandomList
 {
-
-
     class Program
     {
         static void Main(string[] args)
@@ -31,7 +29,7 @@ namespace RandomList
             List<int> myList = new List<int>();
             for (int i = 1; i <= anzahl; i++)
             {
-                myList.Add(myRandomGenerator.Next(0, 100));
+                myList.Add(myRandomGenerator.Next(100));
                 Console.Write("Zahl mit der Nummer " + String.Format("{0:000}", i) + " lautet: " + String.Format("{0:000}", myList[i-1]) + "\t");
                 Console.WriteLine("Random number of count " + String.Format("{0:000}", i) + " equals: " + String.Format("{0:000}", myList[i - 1]));
             }

@@ -19,10 +19,3 @@ C:\Users\SITRAIN\Desktop\DI-OPEN1_V150101_DE_Entwicklungsstand\04_Trainer\01_Sol
 C:\Users\SITRAIN\Desktop\DI-OPEN1_V150101_DE_Entwicklungsstand\04_Trainer\01_Solution\Chapter4\For_Array_List\For_Array_List\obj\Debug\For_Array_List.csproj.CoreCompileInputs.cache
 C:\Users\SITRAIN\Desktop\DI-OPEN1_V150101_DE_Entwicklungsstand\04_Trainer\01_Solution\Chapter4\For_Array_List\For_Array_List\obj\Debug\For_Array_List.exe
 C:\Users\SITRAIN\Desktop\DI-OPEN1_V150101_DE_Entwicklungsstand\04_Trainer\01_Solution\Chapter4\For_Array_List\For_Array_List\obj\Debug\For_Array_List.pdb
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter4\For_Array_List\For_Array_List\bin\Debug\For_Array_List.exe.config
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter4\For_Array_List\For_Array_List\bin\Debug\For_Array_List.exe
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter4\For_Array_List\For_Array_List\bin\Debug\For_Array_List.pdb
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter4\For_Array_List\For_Array_List\obj\Debug\For_Array_List.csprojAssemblyReference.cache
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter4\For_Array_List\For_Array_List\obj\Debug\For_Array_List.csproj.CoreCompileInputs.cache
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter4\For_Array_List\For_Array_List\obj\Debug\For_Array_List.exe
-D:\00_DIOPEN\DI_OPEN1_Solutions\Chapter4\For_Array_List\For_Array_List\obj\Debug\For_Array_List.pdb
