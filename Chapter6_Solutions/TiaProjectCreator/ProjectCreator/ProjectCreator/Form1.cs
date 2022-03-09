@@ -7,31 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using TiaProject;
 
 namespace ProjectCreator
 {
     public partial class Form1 : Form
     {
-        public static TiaProject.TiaPortalProject myProject;
-        List<SinamicsParameter> paramList = new List<SinamicsParameter>();
-
         public Form1()
         {
             InitializeComponent();
-
-            paramList.Add(new SinamicsParameter(2000, 2000.0f));
-            paramList.Add(new SinamicsParameter(2001, 100.0f));
-            paramList.Add(new SinamicsParameter(864, 1.0f));
-            paramList.Add(new SinamicsParameter(10, 0f));
-            paramList.Add(new SinamicsParameter(21500, 10.0f));
-
-            lbTest.DataSource = paramList;            
-
-            // add enum values to comboBox
-            cbSubnetType.Items.AddRange(Enum.GetNames(typeof(TiaProject.SubnetType)));
-            cbDeviceType.Items.AddRange(Enum.GetNames(typeof(TiaProject.DeviceClassification)));
         }
+
+        public static TiaProject.TiaPortalProject myProject;
 
         private void btnInitializeProject_Click(object sender, EventArgs e)
         {
@@ -76,11 +62,6 @@ namespace ProjectCreator
             {
                 //Subnet was not found --> Select the correct subnet type
                 TiaProject.SubnetType myClassification;
-
-
-                var result = Enum.TryParse((string)cbSubnetType.SelectedItem, out myClassification);
-
-                /*
                 if ((string)cbSubnetType.SelectedItem == "PROFINET")
                 {
                     myClassification = TiaProject.SubnetType.PROFINET;
@@ -101,8 +82,6 @@ namespace ProjectCreator
                 {
                     myClassification = TiaProject.SubnetType.xxxUNDEFxxx;
                 }
-*/
-                
                 // Add subnet to collection
                 myProject.subnets.Add(new TiaProject.Subnet(tbSubnetName.Text, myClassification));
                 //Update the list box
@@ -181,32 +160,5 @@ namespace ProjectCreator
                 MessageBox.Show("Project creation was not successfull!", "Warning!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            foreach(var item in lbTest.SelectedItems)
-            {
-                MessageBox.Show(item.ToString());
-            }
-        }
-    }
-
-    class SinamicsParameter
-    {
-        public int parameterNumber { get; set; }
-        public float parameterValue { get; set; }
-
-        public SinamicsParameter(int number, float value)
-        {
-            this.parameterNumber = number;
-            this.parameterValue = value;
-        }
-
-
-        public override string ToString()
-        {
-            return "p" + parameterNumber.ToString();
-        }
-
     }
 }
